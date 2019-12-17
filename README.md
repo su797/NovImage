@@ -1,6 +1,6 @@
 # NovImage
 
-NovImage is a iamge plug-in for entry.
+NovImage is a image plug-in for entry.
 
 Chinese document :cn.docomo.ltd 
 
