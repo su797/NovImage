@@ -1,6 +1,6 @@
-# NovImage
+# NovImage3.0
 
-NovImage is a image plug-in for entry.
+NovImage3.0 is a image plug-in for entry.
 
 Chinese document :cn.docomo.ltd 
 
